@@ -23,7 +23,7 @@ function App() {
     <div className="App">
       <h1>Click the button to see what happens</h1>
       <Button variant='contained' onClick={() => setUrl('users')}>click to see users</Button>
-      <Button variant='contained' color="secondary" onClick={() => setUrl('todos')}>click to see jokes</Button>
+      <Button variant='contained' color="secondary" onClick={() => setUrl('todos')}>click to see to do</Button>
       {/* {sourse.map((item) => (<div key={item.id}><p>{url === 'users' ? item.name : item.title}</p></div>))} */}
       <br />
       <div style={{ height: 400, width: '100%', display: 'flex', paddingTop: '50px', paddingBottom: '50px'  }}>
