@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Call-API-App/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Call-API-App/static/js/main.9991662e.chunk.js",
+    "main.js.map": "/Call-API-App/static/js/main.9991662e.chunk.js.map",
+    "runtime-main.js": "/Call-API-App/static/js/runtime-main.4a4bd419.js",
+    "runtime-main.js.map": "/Call-API-App/static/js/runtime-main.4a4bd419.js.map",
+    "static/js/2.605a5c5c.chunk.js": "/Call-API-App/static/js/2.605a5c5c.chunk.js",
+    "static/js/2.605a5c5c.chunk.js.map": "/Call-API-App/static/js/2.605a5c5c.chunk.js.map",
+    "index.html": "/Call-API-App/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Call-API-App/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.605a5c5c.chunk.js.LICENSE.txt": "/Call-API-App/static/js/2.605a5c5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4bd419.js",
+    "static/js/2.605a5c5c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9991662e.chunk.js"
+  ]
+}
