@@ -10,7 +10,7 @@ function App() {
 
   const columns = [
     { field: 'id', headerName: 'ID', width: 70, flex: 0.5 },
-    { field: url === 'users' ? 'name' : 'title', headerName: url === 'users' ? 'NAME' : 'TITLE', width: 130, flex: 1 },
+    { field: url === 'users' ? 'name' : 'title', headerName: url === 'users' ? 'NAME' : 'TO DO', width: 130, flex: 1 },
   ];
 
   const rows = sourse;
